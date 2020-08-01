@@ -14,5 +14,3 @@
 
 
 [return to home](./README.md) 
-
-![mizzou](https://images.app.goo.gl/RP2U73qDfYUZWKba6)
