@@ -8,4 +8,4 @@ Navigate my website using these links
 
 * [Skills](./skills.md)
 * [Hometown](./hometown.md)
-* [Hobbies](./hobby.md)
+* [Hobbies](./hobbies.md)
