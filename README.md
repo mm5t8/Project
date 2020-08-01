@@ -6,6 +6,6 @@ I am a student at the University of Missouri. This website is for infotc_1000 fi
 
 Navigate my website using these links
 
-* [Skills](./skills.md)
+* [Skills](./skills_awards.md)
 * [Hometown](./hometown.md)
 * [Hobbies](./hobbies.md)
